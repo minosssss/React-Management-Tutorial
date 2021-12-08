@@ -1,3 +1,7 @@
+## Management System
+
+본 프로젝트는 '동빈나' React & Node.js 강의에 따라 제작되었습니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
